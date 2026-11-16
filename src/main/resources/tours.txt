@@ -1,0 +1,6 @@
+Ruta de los Volcanes;Aventura;35000
+Navegacion Lago Llanquihue;Lacustre;25000
+Ruta Gastronomica;Gastronomico;18000
+Tour Cultural Frutillar;Cultural;22000
+Excursion Saltos del Petrohue;Aventura;40000
+Tour Puerto Varas;Cultural;15000
